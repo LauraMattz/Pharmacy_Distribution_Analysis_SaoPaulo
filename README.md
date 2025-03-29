@@ -2,6 +2,7 @@
 # 🗺️ Análise da Distribuição de Farmácias em São Paulo com Google Maps
 
 Bem-vindo à **Análise da Distribuição de Farmácias em São Paulo**! Este projeto tem como objetivo mapear e analisar a distribuição de farmácias na cidade de São Paulo utilizando **Python**, **Selenium**, **Folium** e o **Google Maps**. Vamos explorar quais bairros possuem mais farmácias, quais redes dominam e visualizar essas informações em um mapa interativo. 📊🏥
+![Mapa de Calor das Farmácias em São Paulo](https://github.com/LauraMattz/Pharmacy_Distribution_Analysis_SaoPaulo/blob/main/pharmacy_heatmap_sao_paulo.png?raw=true)
 
 ## 🚀 Visão Geral do Projeto
 
